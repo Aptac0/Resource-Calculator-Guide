@@ -57,22 +57,6 @@ For complete user guides including:
 - System requirements
 
 **👉 Select your language from the table above**
-
-## 🔗 Resources
-
-- **GitHub Repository:** https://github.com/Aptac0/Resource-Calculator
-- **Latest Release:** https://github.com/Aptac0/Resource-Calculator/releases
-- **Issues & Support:** https://github.com/Aptac0/Resource-Calculator/issues
-
-## 💡 Developer Info
-
-- **Main App:** `app.py` (tkinter GUI)
-- **Build Script:** `build.bat` (PyInstaller)
-- **Translation System:** `translations.py`
-- **Update Helper:** `update_helper.py`
-- **Kingdoms:** `kingdoms/` (configurable templates)
-- **Icons:** `Iconos/` (button assets)
-
 ---
 
 **Version:** 1.0.0 | **License:** GPL-3.0 | **Updated:** June 2026
