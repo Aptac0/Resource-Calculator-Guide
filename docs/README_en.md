@@ -2,9 +2,11 @@
 
 **[Español](README_es.md) | English | [Português](README_pt.md) | [Tiếng Việt](README_vi.md) | [Bahasa Indonesia](README_id.md) | [Français](README_fr.md)**
 
+Desktop application to automatically extract kingdom resources from screenshots using OCR with smart nickname generation.
+
 ---
 
-## � Table of Contents
+## 📖 Table of Contents
 
 1. [Quick Guide](#-quick-guide)
 2. [How to Take Screenshots](#-how-to-take-screenshots)
@@ -22,15 +24,15 @@
 
 1. **Open the application**
    - Run `RSS STORE APTAC.exe`
-   - Select language in main menu
+   - Select the language in the main menu
 
 2. **Add images**
    - Click the `Add Images` button
    - Select your screenshot captures
-   - Images load in the list
+   - Images load into the list
 
 3. **Configure kingdom**
-   - Choose the `Kingdom` from dropdown
+   - Choose the `Kingdom` from the dropdown
    - Available kingdoms update from GitHub
 
 4. **Fill in numbers**
@@ -57,8 +59,8 @@
 ### From PC (Recommended)
 
 ✅ **Correct way:**
-- Open game in windowed mode
-- Capture Resources window clearly
+- Open the game in windowed mode
+- Capture the Resources window clearly
 - Ensure numbers are not cut off
 - Image must be sharp without shadows
 
@@ -205,9 +207,9 @@ Gold: 6.1K
 
 ### How to Use Results
 
-1. Open the `.txt` file in editor
+1. Open the `.txt` file in an editor
 2. Copy the data you need
-3. Paste into your management tool
+3. Paste it into your management tool
 4. Nicknames generate automatically
 
 ---
@@ -244,3 +246,74 @@ Gold: 6.1K
 - Try running as Administrator
 
 ---
+
+## 🔄 Update System
+
+### Automatic
+- The app **checks for new versions at startup**
+- If an update is available, notification appears
+- Automatic download from GitHub
+- Installation without intervention
+
+### Manual
+- Run `actualizar.bat` in the installation folder
+- It updates directly from the repository
+
+### What Updates
+- `kingdoms/` → New templates
+- `Iconos/` → New icons
+- .exe version → From Releases
+
+---
+
+## 📋 Available Levels
+
+### City Level (Market Shop)
+- Range: 1 to 25
+- Applies to all resources
+- Saved in results
+
+![Market Shop Levels](../Ejemplos/Niveles-Puesto-de-Venta.png)
+
+### Warehouse Level (Storage)
+- Range: 1 to 25
+- Available storage
+- Saved in results
+
+![Storage Levels](../Ejemplos/Niveles-de-Almacen.png)
+
+### Maximum Technology
+- Affects resource capacity
+- Reference in the app
+
+![Maximum Technology](../Ejemplos/Tecnologia-Maxima.png)
+
+---
+
+## 🎯 Complete Example
+
+**Scenario:** You have 5 accounts, you want total resources
+
+1. **Prepare screenshots**
+   - Take 5 screenshots (one per account)
+   - Transfer to PC
+   - Save in an accessible folder
+
+2. **Configure the app**
+   - Add Images → select 5
+   - Kingdom → choose correct one
+   - Start number: 1
+   - End number: 5
+   - Blocked numbers: (empty)
+   - City Level: 15
+   - Warehouse Level: 18
+
+3. **Process**
+   - Click `Total Resources`
+   - Wait for completion
+   - You will see progress in %
+
+4. **Results**
+   - File saved automatically
+   - Open `GUARDADOS/REINO_results_*.txt`
+   - Copy data to your tool
