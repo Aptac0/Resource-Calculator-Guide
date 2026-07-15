@@ -1,9 +1,9 @@
-# RSS STORE APTAC - Página Oficial de Guías
+# RSS STORE APTAC - Official Guides Page
 
-Bienvenido a la guía central de RSS STORE APTAC.
-Desde aquí puedes entrar rápido al apartado que necesites y elegir idioma en cada sección.
+Welcome to the central guide hub for RSS STORE APTAC.
+From here, you can quickly open the section you need and choose your preferred language in each part.
 
-## ⚡ Acceso Rápido
+## ⚡ Quick Access
 
 - [App](#-app)
 - [Commanders](#-commanders)
@@ -14,102 +14,102 @@ Desde aquí puedes entrar rápido al apartado que necesites y elegir idioma en c
 
 ## 📱 App
 
-Selector de idioma:
+Language selector:
 
 | 🇪🇸 Español | 🇬🇧 English | 🇵🇹 Português | 🇻🇳 Tiếng Việt | 🇮🇩 Bahasa Indonesia | 🇫🇷 Français |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [Abrir](guides/app/README_es.md) | [Open](guides/app/README_en.md) | [Abrir](guides/app/README_pt.md) | [Mở](guides/app/README_vi.md) | [Buka](guides/app/README_id.md) | [Ouvrir](guides/app/README_fr.md) |
 
-Qué contiene este apartado:
+What this section contains:
 
-- Flujo completo de uso de la app paso a paso.
-- Cómo tomar capturas correctas (PC y móvil).
-- Formatos válidos para rangos, bloqueados y validación de imágenes.
-- Explicación de cada botón y función del panel principal.
-- Errores comunes y solución rápida.
+- Complete app usage flow, step by step.
+- How to take correct screenshots (PC and mobile).
+- Valid formats for ranges, blocked numbers, and image count validation.
+- Explanation of each button and function in the main panel.
+- Common errors and quick fixes.
 
-Cómo funciona en resumen:
+How it works in short:
 
-1. Cargas imágenes o carpetas con capturas.
-2. Defines reino, rango de cuentas y niveles.
-3. Ejecutas el tipo de extracción que necesitas.
-4. Guardas un archivo final con formato ordenado para gestión.
+1. You load images or folders with screenshots.
+2. You define kingdom, account range, and levels.
+3. You run the extraction type you need.
+4. You save a final file in a structured format for management.
 
 ---
 
 ## 🧭 Commanders
 
-Selector de idioma:
+Language selector:
 
 | 🇪🇸 Español | 🇬🇧 English | 🇵🇹 Português | 🇻🇳 Tiếng Việt | 🇮🇩 Bahasa Indonesia | 🇫🇷 Français |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [Abrir](guides/commanders/README_es.md) | [Open](guides/commanders/README_en.md) | [Abrir](guides/commanders/README_pt.md) | [Mở](guides/commanders/README_vi.md) | [Buka](guides/commanders/README_id.md) | [Ouvrir](guides/commanders/README_fr.md) |
 
-Qué contiene este apartado:
+What this section contains:
 
-- Orden recomendado para subir recolectores en cuentas granja.
-- Talentos por etapa (nivel 20, 27 y escalado posterior).
-- Objetivos de capacidad por marcha para limpiar nodos sin desperdicio.
-- Reglas prácticas para ahorrar tomos y acelerar progreso.
+- Recommended order to level gathering commanders for farm accounts.
+- Talent priorities by stage (level 20, 27, and later scaling).
+- Capacity targets per march to clear nodes without waste.
+- Practical rules to save tomes and accelerate progress.
 
-Cómo funciona en resumen:
+How it works in short:
 
-1. Priorizas 2 recolectores iniciales para velocidad temprana.
-2. Desbloqueas tercera y cuarta marcha con el orden correcto.
-3. Llevas los recolectores a nivel 27 en secuencia eficiente.
-4. Escalas tropas para aumentar la carga total por marcha.
+1. You prioritize 2 initial gatherers for early speed.
+2. You unlock third and fourth marches in the correct order.
+3. You bring gatherers to level 27 in an efficient sequence.
+4. You scale troops to increase total load per march.
 
 ---
 
 ## 🏗 Make Accounts
 
-Selector de idioma:
+Language selector:
 
 | 🇪🇸 Español | 🇬🇧 English | 🇵🇹 Português | 🇻🇳 Tiếng Việt | 🇮🇩 Bahasa Indonesia | 🇫🇷 Français |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [Abrir](guides/make-accounts/README_es.md) | [Open](guides/make-accounts/README_en.md) | [Abrir](guides/make-accounts/README_pt.md) | [Mở](guides/make-accounts/README_vi.md) | [Buka](guides/make-accounts/README_id.md) | [Ouvrir](guides/make-accounts/README_fr.md) |
 
-Qué contiene este apartado:
+What this section contains:
 
-- Ruta clara de Ayuntamiento 1 a 22 para cuentas granja.
-- Prioridades de edificios para no gastar recursos de más.
-- Uso recomendado de aceleradores y ayudas de alianza.
-- Punto de equilibrio ideal para cuentas de farmeo masivo.
+- Clear route from City Hall 1 to 22 for farm accounts.
+- Building priorities to avoid unnecessary resource spending.
+- Recommended use of speedups and alliance help.
+- Ideal balance point for high-efficiency farm accounts.
 
-Cómo funciona en resumen:
+How it works in short:
 
-1. Cumples sólo requisitos críticos por nivel.
-2. Mantienes dos constructores activos permanentemente.
-3. Inviertes aceleradores en mejoras que realmente desbloquean progreso.
-4. Llegas a Ayuntamiento 22 para activar la quinta marcha.
+1. You complete only critical requirements per level.
+2. You keep both builders active at all times.
+3. You invest speedups in upgrades that actually unlock progress.
+4. You reach City Hall 22 to activate the fifth march.
 
 ---
 
 ## ⚙ Technology
 
-Selector de idioma:
+Language selector:
 
 | 🇪🇸 Español | 🇬🇧 English | 🇵🇹 Português | 🇻🇳 Tiếng Việt | 🇮🇩 Bahasa Indonesia | 🇫🇷 Français |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [Abrir](guides/technology/README_es.md) | [Open](guides/technology/README_en.md) | [Abrir](guides/technology/README_pt.md) | [Mở](guides/technology/README_vi.md) | [Buka](guides/technology/README_id.md) | [Ouvrir](guides/technology/README_fr.md) |
 
-Qué contiene este apartado:
+What this section contains:
 
-- Prioridad de tecnologías económicas para cuentas granja.
-- Mínimo militar útil para no frenar crecimiento económico.
-- Recomendaciones para sincronizar investigación con edificio y farmeo.
-- Referencias visuales para seguir una ruta de investigación simple.
+- Economic technology priority for farm accounts.
+- Minimal military research to avoid slowing economic growth.
+- Recommendations to sync research with building and farming goals.
+- Visual references to follow a simple research path.
 
-Cómo funciona en resumen:
+How it works in short:
 
-1. Se prioriza economía al inicio para acelerar producción y recolección.
-2. Se investiga lo militar estrictamente necesario para requisitos.
-3. Se mantiene investigación continua 24/7.
-4. Se adapta la ruta según etapa del ayuntamiento.
+1. Economy is prioritized early to speed up production and gathering.
+2. Military research is kept to strict requirement minimums.
+3. Research remains active 24/7.
+4. The path is adjusted based on City Hall stage.
 
 ---
 
-## 🖼 Recursos Visuales
+## 🖼 Visual Resources
 
 - App: [images/app](images/app)
 - Commanders: [images/commanders](images/commanders)
@@ -117,5 +117,5 @@ Cómo funciona en resumen:
 
 ---
 
-**Versión:** 2.0.0  
-**Actualizado:** 2026-07-15
+**Version:** 2.0.0  
+**Updated:** 2026-07-15
