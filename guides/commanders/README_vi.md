@@ -37,6 +37,3 @@ Huong dan nhanh de nang cap tuong thu thap hieu qua.
 ![Nhanh nang cao](../../images/commanders/Level-37-Branching.png)
 ![Theo doi tuong](../../images/commanders/Commander-tracking.jpeg)
 
-## Ban day du
-
-- [Noi dung day du tieng Viet](vn.txt)

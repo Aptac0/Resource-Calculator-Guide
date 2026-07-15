@@ -141,6 +141,16 @@
 - Chọn nhiều ảnh chụp màn hình
 - Thêm vào danh sách xử lý
 
+### Thêm Thư Mục
+- Tải toàn bộ ảnh hợp lệ từ một thư mục
+- Nhanh hơn khi xử lý lô lớn
+- Khuyến nghị khi làm nhiều tài khoản
+
+### Xóa Ảnh
+- Xóa một ảnh đã chọn khỏi danh sách
+- Hữu ích để sửa ảnh sai mà không cần xóa toàn bộ
+- Giúp kiểm tra lô cuối trước khi xử lý
+
 ### Xóa Danh Sách
 - Xóa tất cả ảnh đã nạp
 - Gỡ dữ liệu tạm thời
@@ -150,8 +160,8 @@
 - Mở phiên bản khác của ứng dụng
 - Hữu ích cho nhiều tác vụ
 
-### Cập nhật GitHub
-- Tải xuống `kingdoms/` và `Iconos/` mới nhất từ repo
+### Cập nhật Dữ liệu
+- Tải xuống `kingdoms/` và `Iconos/` mới nhất từ nguồn cập nhật
 - Ghi đè dữ liệu cục bộ
 - Nếu dùng .exe, hiển thị trang Releases cho trình cài đặt mới
 
@@ -251,7 +261,7 @@ Vàng: 6.1K
 ### Tự động
 - Ứng dụng **kiểm tra phiên bản mới khi khởi động**
 - Nếu có cập nhật, hiển thị thông báo
-- Tải xuống tự động từ GitHub
+- Tải xuống tự động từ máy chủ đã cấu hình
 - Cài đặt không cần can thiệp
 
 ### Thủ công

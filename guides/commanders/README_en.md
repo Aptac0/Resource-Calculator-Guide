@@ -37,6 +37,3 @@ Quick guide to level gathering commanders efficiently.
 ![Advanced branch](../../images/commanders/Level-37-Branching.png)
 ![Commander tracking](../../images/commanders/Commander-tracking.jpeg)
 
-## Full version
-
-- [Full text in English](en.txt)

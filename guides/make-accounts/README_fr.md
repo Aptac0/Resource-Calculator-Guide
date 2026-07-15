@@ -28,6 +28,3 @@ Parcours recommande pour passer un compte ferme de l'Hotel de Ville 1 a 22.
 - Cinquieme marche debloquee a l'Hotel de Ville 22.
 - Meilleure efficacite de recolte pour les comptes ferme.
 
-## Version complète
-
-- [Texte complet en français](fr.txt)

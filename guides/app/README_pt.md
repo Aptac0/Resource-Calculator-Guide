@@ -141,6 +141,16 @@ Aplicativo desktop para extrair automaticamente recursos de reino a partir de ca
 - Selecione várias capturas
 - Adiciona à lista de processamento
 
+### Adicionar Pasta
+- Carrega todas as imagens válidas de uma pasta
+- Mais rápido para lotes grandes
+- Recomendado ao processar muitas contas
+
+### Excluir Imagem
+- Remove uma imagem selecionada da lista
+- Útil para corrigir uma captura errada sem limpar tudo
+- Ajuda a validar o lote final antes do processamento
+
 ### Limpar Lista
 - Esvazia todas as imagens carregadas
 - Remove dados temporários
@@ -150,8 +160,8 @@ Aplicativo desktop para extrair automaticamente recursos de reino a partir de ca
 - Abre outra instância do aplicativo
 - Útil para várias tarefas
 
-### Atualizar GitHub
-- Baixa `kingdoms/` e `Iconos/` mais recentes do repositório
+### Atualizar Dados
+- Baixa `kingdoms/` e `Iconos/` mais recentes da fonte de atualização
 - Substitui os dados locais
 - Se usar o .exe, exibe a página de releases para novo instalador
 
@@ -251,12 +261,12 @@ Ouro: 6.1K
 ### Automático
 - O aplicativo **verifica novas versões na inicialização**
 - Se uma atualização estiver disponível, aparece uma notificação
-- Download automático do GitHub
+- Download automático do servidor configurado
 - Instalação sem intervenção
 
 ### Manual
 - Execute `actualizar.bat` na pasta de instalação
-- Ele atualiza diretamente do repositório
+- Ele atualiza diretamente da fonte configurada
 
 ### O que é atualizado
 - `kingdoms/` → novos templates

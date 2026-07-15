@@ -37,6 +37,3 @@ Panduan cepat untuk menaikkan komandan pengumpul dengan efisien.
 ![Cabang lanjutan](../../images/commanders/Level-37-Branching.png)
 ![Pelacakan komandan](../../images/commanders/Commander-tracking.jpeg)
 
-## Versi lengkap
-
-- [Teks lengkap dalam Bahasa Indonesia](id.txt)

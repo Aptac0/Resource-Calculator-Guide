@@ -141,6 +141,16 @@ Application de bureau pour extraire automatiquement les ressources du royaume à
 - Sélectionnez plusieurs captures
 - Ajoute à la liste de traitement
 
+### Ajouter un Dossier
+- Charge toutes les images valides d'un dossier
+- Plus rapide pour les gros lots
+- Recommandé pour traiter de nombreux comptes
+
+### Supprimer une Image
+- Retire une image sélectionnée de la liste
+- Utile pour corriger une mauvaise capture sans tout vider
+- Permet de valider le lot final avant traitement
+
 ### Vider la Liste
 - Vide toutes les images chargées
 - Supprime les données temporaires
@@ -150,8 +160,8 @@ Application de bureau pour extraire automatiquement les ressources du royaume à
 - Ouvre une autre instance de l'application
 - Utile pour plusieurs tâches
 
-### Mettre à Jour GitHub
-- Télécharge les derniers `kingdoms/` et `Iconos/` du repo
+### Mettre à Jour les Données
+- Télécharge les derniers `kingdoms/` et `Iconos/` depuis la source de mise à jour
 - Remplace les données locales
 - Si vous utilisez le .exe, affiche la page des releases pour un nouvel installateur
 
@@ -251,12 +261,12 @@ Or: 6.1K
 ### Automatique
 - L'application **vérifie les nouvelles versions au démarrage**
 - Si une mise à jour est disponible, une notification apparaît
-- Téléchargement automatique depuis GitHub
+- Téléchargement automatique depuis le serveur configuré
 - Installation sans intervention
 
 ### Manuel
 - Exécutez `actualizar.bat` dans le dossier d'installation
-- Il met à jour directement depuis le dépôt
+- Il met à jour directement depuis la source configurée
 
 ### Ce qui se met à jour
 - `kingdoms/` → nouveaux modèles

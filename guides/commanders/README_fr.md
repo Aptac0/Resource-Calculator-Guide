@@ -37,6 +37,3 @@ Guide rapide pour monter les commandants de récolte efficacement.
 ![Branche avancée](../../images/commanders/Level-37-Branching.png)
 ![Suivi des commandants](../../images/commanders/Commander-tracking.jpeg)
 
-## Version complète
-
-- [Texte complet en français](fr.txt)

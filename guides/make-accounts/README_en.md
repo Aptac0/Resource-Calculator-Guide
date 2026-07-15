@@ -28,6 +28,3 @@ Recommended path to push farm accounts from City Hall 1 to 22.
 - Fifth march unlocked at City Hall 22.
 - Better gathering efficiency for farm accounts.
 
-## Full version
-
-- [Full text in English](en.txt)

@@ -37,6 +37,3 @@ Guia rápido para evoluir comandantes de coleta com eficiência.
 ![Ramo avançado](../../images/commanders/Level-37-Branching.png)
 ![Rastreamento de comandantes](../../images/commanders/Commander-tracking.jpeg)
 
-## Versão completa
-
-- [Texto completo em português](pt.txt)

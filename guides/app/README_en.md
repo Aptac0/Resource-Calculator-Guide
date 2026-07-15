@@ -141,6 +141,16 @@ Desktop application to automatically extract kingdom resources from screenshots 
 - Select multiple captures
 - Adds to processing list
 
+### Add Folder
+- Loads all valid images from one folder
+- Faster for large batches
+- Recommended when processing many accounts
+
+### Delete Image
+- Removes one selected image from the list
+- Useful to fix a wrong capture without clearing everything
+- Helps validate the final batch before processing
+
 ### Clear List
 - Empties all loaded images
 - Removes temporary data
@@ -150,8 +160,8 @@ Desktop application to automatically extract kingdom resources from screenshots 
 - Opens another app instance
 - Useful for multiple tasks
 
-### Update GitHub
-- Downloads latest `kingdoms/` and `Iconos/` from repo
+### Update Data
+- Downloads latest `kingdoms/` and `Iconos/` from the update source
 - Overwrites local data
 - If using .exe, shows releases page for new installer
 
@@ -251,12 +261,12 @@ Gold: 6.1K
 ### Automatic
 - The app **checks for new versions at startup**
 - If an update is available, notification appears
-- Automatic download from GitHub
+- Automatic download from the configured server
 - Installation without intervention
 
 ### Manual
 - Run `actualizar.bat` in the installation folder
-- It updates directly from the repository
+- It updates directly from the configured source
 
 ### What Updates
 - `kingdoms/` → New templates

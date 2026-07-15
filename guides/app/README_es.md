@@ -134,6 +134,16 @@ Aplicación de escritorio para extraer automáticamente recursos de reinos desde
 - Selecciona múltiples capturas
 - Se añaden a la lista de procesamiento
 
+### Añadir Carpeta
+- Carga todas las imágenes válidas de una carpeta
+- Ahorra tiempo cuando tienes muchos archivos
+- Útil para lotes grandes por reino
+
+### Eliminar Imagen
+- Elimina una captura seleccionada de la lista
+- Permite corregir errores sin limpiar todo
+- Recomendado antes de procesar el lote final
+
 ### Limpiar Lista
 - Vacía todas las imágenes cargadas
 - Borra datos temporales
@@ -158,10 +168,10 @@ Aplicación de escritorio para extraer automáticamente recursos de reinos desde
 - Items "de objetos" (paquetes)
 - Útil para auditoría de mochila
 
-### Actualizar GitHub
-- Descarga `kingdoms/` e `Iconos/` del repositorio
-- Sobrescribe datos locales
-- En .exe: muestra link a descargar nuevo instalador
+### Actualizar Datos
+- Descarga plantillas e iconos más recientes
+- Sobrescribe datos locales antiguos
+- Si hay nueva versión del instalador, muestra aviso de descarga
 
 ![Botones de la App](../../images/app/Botones-App.png.png)
 
@@ -231,13 +241,13 @@ Oro: 6.1K
 
 ### "Error de actualización"
 
-**Causa:** Problemas de conexión o repositorio mal configurado.
+**Causa:** Problemas de conexión o configuración de origen de datos.
 
 **Soluciones:**
 1. Verifica tu conexión a Internet
 2. Intenta de nuevo en unos minutos
 3. Reinicia la aplicación
-4. Comprueba que el repositorio GitHub existe
+4. Comprueba que el origen de datos esté disponible
 
 ### Las imágenes no se procesan
 
@@ -255,12 +265,12 @@ Oro: 6.1K
 ### Automática
 - La app **verifica versiones nuevas al iniciar**
 - Si hay actualización disponible, notificación
-- Descarga automática desde GitHub
+- Descarga automática desde el servidor configurado
 - Instalación sin intervención
 
 ### Manual
 - Ejecuta `actualizar.bat` en la carpeta de instalación
-- Se actualiza directamente desde el repositorio
+- Se actualiza directamente desde la fuente configurada
 
 ### Qué se Actualiza
 - `kingdoms/` → Nuevas plantillas

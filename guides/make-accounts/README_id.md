@@ -28,6 +28,3 @@ Rute rekomendasi untuk menaikkan akun farm dari Balai Kota 1 ke 22.
 - Barisan kelima terbuka di Balai Kota 22.
 - Efisiensi pengumpulan lebih tinggi untuk akun farm.
 
-## Versi lengkap
-
-- [Teks lengkap Bahasa Indonesia](id.txt)

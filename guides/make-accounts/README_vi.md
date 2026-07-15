@@ -28,6 +28,3 @@ Lo trinh de xuat de nang tai khoan farm tu Toa Thi Chinh 1 len 22.
 - Mo dao quan thu 5 o Toa Thi Chinh 22.
 - Tang hieu qua thu thap cho tai khoan farm.
 
-## Ban day du
-
-- [Noi dung day du tieng Viet](vn.txt)

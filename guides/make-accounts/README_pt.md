@@ -28,6 +28,3 @@ Rota recomendada para levar contas fazenda da Prefeitura 1 ate a 22.
 - Quinta marcha desbloqueada na Prefeitura 22.
 - Maior eficiencia de coleta para contas fazenda.
 
-## Versão completa
-
-- [Texto completo em português](pt.txt)

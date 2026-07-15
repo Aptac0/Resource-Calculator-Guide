@@ -141,6 +141,16 @@ Aplikasi desktop untuk mengekstrak sumber daya kerajaan dari tangkapan layar sec
 - Pilih beberapa tangkapan layar
 - Ditambahkan ke daftar pemrosesan
 
+### Tambah Folder
+- Memuat semua gambar valid dari satu folder
+- Lebih cepat untuk batch besar
+- Direkomendasikan saat memproses banyak akun
+
+### Hapus Gambar
+- Menghapus satu gambar terpilih dari daftar
+- Berguna untuk memperbaiki tangkapan yang salah tanpa mengosongkan semua
+- Membantu validasi batch akhir sebelum diproses
+
 ### Bersihkan Daftar
 - Mengosongkan semua gambar yang dimuat
 - Menghapus data sementara
@@ -150,8 +160,8 @@ Aplikasi desktop untuk mengekstrak sumber daya kerajaan dari tangkapan layar sec
 - Membuka instance aplikasi lain
 - Berguna untuk beberapa tugas
 
-### Perbarui GitHub
-- Mengunduh `kingdoms/` dan `Iconos/` terbaru dari repo
+### Perbarui Data
+- Mengunduh `kingdoms/` dan `Iconos/` terbaru dari sumber pembaruan
 - Menimpa data lokal
 - Jika menggunakan .exe, menampilkan halaman release untuk installer baru
 
@@ -251,12 +261,12 @@ Emas: 6.1K
 ### Otomatis
 - Aplikasi **memeriksa versi baru saat startup**
 - Jika pembaruan tersedia, notifikasi muncul
-- Unduhan otomatis dari GitHub
+- Unduhan otomatis dari server yang dikonfigurasi
 - Instalasi tanpa intervensi
 
 ### Manual
 - Jalankan `actualizar.bat` di folder instalasi
-- Ini memperbarui langsung dari repositori
+- Ini memperbarui langsung dari sumber yang dikonfigurasi
 
 ### Apa yang Diperbarui
 - `kingdoms/` → template baru
