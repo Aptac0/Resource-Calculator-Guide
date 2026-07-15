@@ -1,0 +1,161 @@
+# PANDUAN KOMANDAN PENGUMPUL
+
+Ekonomi yang kuat adalah dasar untuk berkembang dengan cepat di Rise of Kingdoms. Menaikkan level komandan pengumpul dalam urutan yang benar akan memungkinkan Anda membuka bonus pengumpulan lebih awal, memanfaatkan Tome of Knowledge secara maksimal, dan memaksimalkan jumlah sumber daya yang dikumpulkan sejak hari pertama kerajaan.
+
+==================================================
+URUTAN KOMANDAN YANG DIREKOMENDASIKAN
+=====================================
+
+1. Sarka
+2. Gaius Marius
+3. Centurion
+4. Joan of Arc
+5. Salah satu dari berikut ini:
+
+   * Matilda of Flanders
+   * Cleopatra VII
+   * Ishida Mitsunari
+   * Seondeok
+
+CATATAN:
+
+Untuk komandan kelima, Anda dapat menggunakan salah satu dari pilihan di atas. Sebaiknya naikkan level komandan yang pertama kali Anda buka atau yang memiliki patung (sculpture) terbanyak.
+
+==================================================
+TAHAP 1 - BALAI KOTA LEVEL 1 HINGGA 11
+======================================
+
+Tujuan pertama Anda adalah menaikkan level Sarka dan Gaius Marius hingga Level 20.
+
+Mengapa Level 20?
+
+Karena pada level ini Anda dapat membuka bagian kedua dari pohon talenta Gathering, yang memberikan bonus kecepatan pengumpulan yang signifikan.
+
+Dengan demikian, dua pasukan pengumpul pertama Anda akan mulai mengumpulkan sumber daya jauh lebih cepat sejak awal permainan.
+
+Pada akhir tahap ini Anda seharusnya memiliki:
+
+• Sarka Level 20.
+• Gaius Marius Level 20.
+• Balai Kota sekitar Level 11.
+
+Selama tahap ini, hindari menggunakan Experience untuk komandan pengumpul lainnya.
+
+==================================================
+TAHAP 2 - PASUKAN PENGUMPUL KETIGA
+==================================
+
+Sambil terus mengembangkan kota Anda, naikkan Centurion hingga Level 20.
+
+Dengan begitu Anda akan memiliki pasukan pengumpul ketiga dengan bonus kecepatan pengumpulan yang sama.
+
+Pada akhir tahap ini Anda akan memiliki:
+
+• Sarka Level 20.
+• Gaius Marius Level 20.
+• Centurion Level 20.
+
+==================================================
+TAHAP 3 - BALAI KOTA LEVEL 17
+=============================
+
+Lanjutkan mengembangkan kota Anda hingga mencapai Balai Kota Level 17.
+
+Setelah mencapainya, naikkan Joan of Arc hingga Level 20.
+
+Sekarang Anda akan memiliki empat komandan yang sepenuhnya siap untuk mengumpulkan sumber daya.
+
+==================================================
+KAPASITAS PENGUMPULAN YANG IDEAL
+================================
+
+Sekitar Balai Kota Level 17, setiap pasukan pengumpul Anda akan mampu mengumpulkan sekitar:
+
+630.000 sumber daya.
+
+Jumlah ini hampir sama dengan kapasitas maksimum node sumber daya di peta dunia, sehingga setiap node dapat dikumpulkan sepenuhnya.
+
+Keuntungannya adalah:
+
+• Tidak ada sumber daya yang tersisa di node.
+• Mencegah pemain lain menemukan node yang hanya terkumpul sebagian.
+• Meningkatkan efisiensi semua pasukan pengumpul Anda.
+• Menjaga peta tetap bersih untuk seluruh aliansi.
+
+==================================================
+TAHAP 4 - NAIKKAN KOMANDAN KE LEVEL 27
+======================================
+
+Setelah empat komandan pengumpul utama Anda mencapai Level 20, tujuan berikutnya adalah menaikkan mereka ke Level 27.
+
+Urutan yang direkomendasikan:
+
+1. Sarka
+2. Gaius Marius
+3. Centurion
+4. Joan of Arc
+5. Komandan kelima yang Anda pilih.
+
+Level 27 memungkinkan Anda menyelesaikan bagian terpenting dari pohon talenta Gathering dan membuka semua bonus utamanya.
+
+PENTING:
+
+Komandan-komandan ini harus selalu digunakan sebagai komandan utama.
+
+Komandan kedua tidak berpengaruh untuk pengumpulan sumber daya karena talenta hanya berlaku pada komandan utama, dan komandan kedua tidak memberikan bonus tambahan.
+
+==================================================
+TUJUAN AKHIR
+============
+
+Setelah semua komandan pengumpul Anda mencapai Level 27, langkah berikutnya adalah terus melatih pasukan.
+
+Tujuannya adalah meningkatkan kapasitas setiap pasukan hingga mampu mengumpulkan sekitar:
+
+1.260.000 sumber daya per pasukan.
+
+Dengan kapasitas tersebut, setiap node sumber daya dapat dikumpulkan sepenuhnya tanpa meninggalkan sisa.
+
+Hal ini memberikan beberapa keuntungan:
+
+• Tidak ada sedikit pun sumber daya yang tertinggal.
+• Mengurangi jumlah perjalanan pengumpulan.
+• Memanfaatkan waktu pengumpulan dengan lebih efisien.
+• Membangun ekonomi yang jauh lebih efisien.
+• Menjaga node sumber daya tetap bersih untuk aliansi dan kerajaan Anda.
+
+==================================================
+RINGKASAN PROGRES
+=================
+
+TAHAP 1
+
+* Sarka Level 20.
+* Gaius Marius Level 20.
+
+TAHAP 2
+
+* Centurion Level 20.
+
+TAHAP 3
+
+* Mencapai Balai Kota Level 17.
+* Joan of Arc Level 20.
+
+TAHAP 4
+
+* Mengumpulkan sekitar 630.000 sumber daya per pasukan.
+
+TAHAP 5
+
+* Naikkan kelima komandan pengumpul hingga Level 27.
+
+TAHAP 6
+
+* Latih pasukan yang cukup hingga mencapai kapasitas pengumpulan sekitar 1.260.000 sumber daya per pasukan.
+
+==================================================
+KESIMPULAN
+==========
+
+Mengikuti perkembangan ini akan membantu Anda membangun ekonomi yang kuat sejak awal kerajaan sambil memanfaatkan setiap Tome of Knowledge secara maksimal. Dengan memprioritaskan komandan pengumpul dalam urutan yang benar, Anda akan meningkatkan kecepatan pengumpulan, mengoptimalkan setiap pasukan, dan mengurangi waktu yang dibutuhkan untuk memperoleh sumber daya sepanjang perjalanan Anda di Rise of Kingdoms.

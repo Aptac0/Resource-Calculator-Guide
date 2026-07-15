@@ -1,0 +1,161 @@
+# GUIDE DES COMMANDANTS RÉCOLTEURS
+
+Une économie solide est la base d'une progression rapide dans Rise of Kingdoms. Monter vos commandants récolteurs dans le bon ordre vous permettra de débloquer plus rapidement les bonus de récolte, de mieux utiliser les Tomes d'Expérience et de maximiser la quantité de ressources récoltées dès le début du royaume.
+
+==================================================
+ORDRE RECOMMANDÉ DES COMMANDANTS
+================================
+
+1. Sarka
+2. Caius Marius
+3. Centurion
+4. Jeanne d'Arc
+5. L'un des suivants :
+
+   * Mathilde de Flandre
+   * Cléopâtre VII
+   * Ishida Mitsunari
+   * Seondeok
+
+REMARQUE :
+
+Pour le cinquième commandant, vous pouvez choisir n'importe laquelle de ces options. Il est recommandé de monter en priorité celui que vous débloquez en premier ou celui pour lequel vous possédez le plus de sculptures.
+
+==================================================
+ÉTAPE 1 - HÔTEL DE VILLE NIVEAU 1 À 11
+======================================
+
+Votre premier objectif est de monter uniquement Sarka et Caius Marius jusqu'au niveau 20.
+
+Pourquoi le niveau 20 ?
+
+Parce qu'à ce niveau, vous pouvez débloquer la deuxième partie de l'arbre de talents Récolte, ce qui accorde un important bonus de vitesse de récolte.
+
+Grâce à cela, vos deux premières marches de récolte commenceront à collecter les ressources beaucoup plus rapidement dès le début du jeu.
+
+À la fin de cette étape, vous devriez avoir :
+
+• Sarka Niveau 20.
+• Caius Marius Niveau 20.
+• Hôtel de Ville environ Niveau 11.
+
+Pendant cette étape, évitez de dépenser de l'expérience sur d'autres commandants récolteurs.
+
+==================================================
+ÉTAPE 2 - TROISIÈME MARCHE DE RÉCOLTE
+=====================================
+
+En continuant à développer votre ville, montez Centurion jusqu'au niveau 20.
+
+Vous obtiendrez ainsi une troisième marche de récolte bénéficiant du même bonus de vitesse de récolte.
+
+À la fin de cette étape, vous aurez :
+
+• Sarka Niveau 20.
+• Caius Marius Niveau 20.
+• Centurion Niveau 20.
+
+==================================================
+ÉTAPE 3 - HÔTEL DE VILLE NIVEAU 17
+==================================
+
+Continuez à développer votre ville jusqu'à atteindre l'Hôtel de Ville niveau 17.
+
+Une fois ce niveau atteint, montez Jeanne d'Arc jusqu'au niveau 20.
+
+Vous disposerez alors de quatre commandants entièrement préparés pour la récolte.
+
+==================================================
+CAPACITÉ IDÉALE DE RÉCOLTE
+==========================
+
+Aux alentours de l'Hôtel de Ville niveau 17, chacune de vos marches pourra récolter environ :
+
+630 000 ressources.
+
+Cette quantité correspond presque parfaitement à la capacité maximale des gisements de ressources sur la carte du monde, permettant de les récolter entièrement.
+
+Les avantages sont :
+
+• Aucun reste de ressources dans les gisements.
+• Empêcher les autres joueurs de trouver des gisements partiellement récoltés.
+• Améliorer l'efficacité de toutes vos marches de récolte.
+• Garder la carte plus propre pour toute votre alliance.
+
+==================================================
+ÉTAPE 4 - MONTER LES COMMANDANTS AU NIVEAU 27
+=============================================
+
+Une fois que vos quatre principaux commandants récolteurs auront atteint le niveau 20, votre objectif suivant sera de les monter jusqu'au niveau 27.
+
+Ordre recommandé :
+
+1. Sarka
+2. Caius Marius
+3. Centurion
+4. Jeanne d'Arc
+5. Le cinquième commandant que vous avez choisi.
+
+Le niveau 27 permet de compléter la partie la plus importante de l'arbre de talents Récolte et de débloquer tous ses principaux bonus.
+
+IMPORTANT :
+
+Ces commandants doivent toujours être utilisés comme commandants principaux.
+
+Le commandant secondaire n'a aucune importance pour la récolte, car seuls les talents du commandant principal sont pris en compte et le commandant secondaire n'apporte aucun bonus supplémentaire.
+
+==================================================
+OBJECTIF FINAL
+==============
+
+Une fois que tous vos commandants récolteurs auront atteint le niveau 27, l'étape suivante sera de continuer à entraîner des troupes.
+
+Votre objectif sera d'augmenter la capacité de chaque marche jusqu'à pouvoir récolter environ :
+
+1 260 000 ressources par marche.
+
+Avec cette capacité, chaque gisement pourra être vidé entièrement sans laisser de ressources.
+
+Cela offre plusieurs avantages :
+
+• Aucune petite quantité de ressources ne sera laissée derrière.
+• Réduction du nombre de trajets de récolte.
+• Meilleure utilisation du temps de récolte.
+• Une économie beaucoup plus efficace.
+• Des gisements entièrement nettoyés pour votre alliance et votre royaume.
+
+==================================================
+RÉSUMÉ DE LA PROGRESSION
+========================
+
+ÉTAPE 1
+
+* Sarka Niveau 20.
+* Caius Marius Niveau 20.
+
+ÉTAPE 2
+
+* Centurion Niveau 20.
+
+ÉTAPE 3
+
+* Atteindre l'Hôtel de Ville niveau 17.
+* Jeanne d'Arc Niveau 20.
+
+ÉTAPE 4
+
+* Récolter environ 630 000 ressources par marche.
+
+ÉTAPE 5
+
+* Monter les cinq commandants récolteurs au niveau 27.
+
+ÉTAPE 6
+
+* Entraîner suffisamment de troupes pour atteindre environ 1 260 000 de capacité de récolte par marche.
+
+==================================================
+CONCLUSION
+==========
+
+En suivant cette progression, vous construirez une économie solide dès le début de votre royaume tout en optimisant chaque Tome d'Expérience investi. En donnant la priorité aux commandants récolteurs dans le bon ordre, vous augmenterez votre vitesse de récolte, optimiserez chacune de vos marches et réduirez le temps nécessaire pour obtenir les ressources dont vous aurez besoin tout au long de votre progression dans Rise of Kingdoms.

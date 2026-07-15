@@ -1,0 +1,225 @@
+Inicio – del nivel 1 al 3
+
+Inicia subiendo el Ayuntamiento a nivel 3 (≈5 min).
+
+Mientras dura: mejora Aserradero, Granja, Cuartel de Infantería y Tiro con Arco al máximo posible.
+
+Cuando termine, sube Muro a 2 y Taberna a 2.
+
+Acelera la Taberna si es necesario.
+
+─────────────────────────────
+Ayuntamiento 3 → 4
+
+Mejora el Ayuntamiento a 4 (≈20 min).
+
+Mientras corre el tiempo: sigue mejorando Granja, Aserradero, Cuarteles, Hospital.
+
+Asegúrate que el Muro quede en 3.
+
+─────────────────────────────
+Ayuntamiento 4 → 5
+
+Sube Hospital a 4★ y Muro a 4★.
+
+En paralelo: lleva todas las granjas y aserraderos a 4, mejora Campamento de Exploración y tropa básica.
+
+Luego sube el Ayuntamiento a 5 (≈45 min con ayudas).
+
+─────────────────────────────
+Ayuntamiento 5 → 6
+
+Requisito: Cantera 5★, Taberna 5★, Muro 5★, Campamento de Exploración 5★.
+
+Mientras haces Cantera y Taberna, pon en cola Granja y Aserradero.
+
+Usa aceleradores en Cantera y Taberna, sube Ayuntamiento a 6.
+
+─────────────────────────────
+Ayuntamiento 6 → 7
+
+Requisitos: Cantera 6★, Taberna 6★, Muro 6★, Almacén 6★.
+
+En paralelo: Hospital y tropas.
+
+Acelera Almacén, luego Ayuntamiento a 7.
+
+─────────────────────────────
+Ayuntamiento 7 → 8
+
+Requisitos: Cantera 7★, Taberna 7★, Muro 7★, Granja 7★, Cuartel 7★.
+
+Mientras subes Cantera y Granja, mejora todos los edificios de recursos.
+
+Ayuntamiento a 8.
+
+─────────────────────────────
+Ayuntamiento 8 → 9
+
+Requisitos: Cantera 8★, Taberna 8★, Muro 8★, Centro de Alianza 8★.
+
+Sube Hospital y Academia mientras esperas.
+
+Acelera Centro de Alianza y Ayuntamiento a 9.
+
+─────────────────────────────
+Ayuntamiento 9 → 10
+
+Requisitos: Cantera 9★, Taberna 9★, Muro 9★, Academia 9★.
+
+Mejora Hospitales y tropas mientras tanto.
+
+Ayuntamiento a 10.
+
+─────────────────────────────
+Ayuntamiento 10 → 11
+
+Requisitos: Cantera 10★, Taberna 10★, Muro 10★, Establo 10★, Hospital 10★.
+
+Acelera Establo y Hospital.
+
+Ayuntamiento a 11.
+
+─────────────────────────────
+Ayuntamiento 11 → 12
+
+Requisitos: Cantera 11★, Taberna 11★, Muro 11★, Almacén 11★.
+
+Mejora recursos y tropas.
+
+Ayuntamiento a 12.
+
+─────────────────────────────
+Ayuntamiento 12 → 13
+
+Requisitos: Cantera 12★, Taberna 12★, Muro 12★, Aserradero 12★, Tiro con Arco 12★.
+
+Mientras esperas, sube Hospitales y tropas.
+
+Ayuntamiento a 13.
+
+─────────────────────────────
+Ayuntamiento 13 → 14
+
+Requisitos: Cantera 13★, Taberna 13★, Muro 13★, Centro de Alianza 13★, Mina de Oro 13★, Puesto Comercial 13★.
+
+Acelera Mina y Puesto Comercial.
+
+Ayuntamiento a 14.
+
+─────────────────────────────
+Ayuntamiento 14 → 15
+
+Requisitos: Cantera 14★, Taberna 14★, Muro 14★, Campamento de Exploración 14★.
+
+En paralelo: Hospital y Academia.
+
+Ayuntamiento a 15.
+
+─────────────────────────────
+Ayuntamiento 15 → 16
+
+Requisitos: Cantera 15★, Taberna 15★, Muro 15★, Academia 15★.
+
+Sube Hospitales, Cuarteles, Establo y tropa T3 mientras esperas.
+
+Ayuntamiento a 16.
+
+─────────────────────────────
+Ayuntamiento 16 → 17
+
+Requisitos: Cantera 16★, Taberna 16★, Muro 16★, Granja 16★, Cuartel 16★, Hospital 16★.
+
+Gasta aceleradores en Cantera y Taberna.
+
+Ayuntamiento a 17.
+
+─────────────────────────────
+CONSEJOS DE RITMO
+
+Mantén dos constructores (VIP o gema) activos.
+
+Usa aceleradores solo en Ayuntamiento y edificios con ★.
+
+Pide ayuda de alianza antes de cada mejora larga.
+
+Recolecta piedra y madera sin parar; son el cuello de botella.
+
+Investiga en Academia mejoras de Construcción y Economía desde el inicio.
+
+─────────────────────────────
+Una vez alcanzado el nivel 17, nos enfocaremos en aumentar la velocidad de recolección lo más rápido posible.
+
+Como primer paso, mejora **una sola** Granja, Aserradero, Cantera y Mina de Oro hasta el nivel 17. No es necesario mejorar las demás por el momento.
+
+Cuando esos cuatro edificios estén al nivel 17, continúa mejorando los edificios de entrenamiento (Cuartel de Infantería, Campo de Tiro con Arco y Establo) hasta el nivel 17. El Taller de Asedio puede permanecer como máximo en el nivel 10, ya que no será necesario para este objetivo.
+
+Después, mejora el Centro de Alianza, la Academia, la Taberna, el Muro, el Almacén y el Hospital hasta el nivel 17.
+
+Si las ventas de recursos todavía son pocas o no necesitas producir grandes cantidades, lo más recomendable es continuar directamente hasta el Ayuntamiento 22. Al llegar a ese nivel desbloquearás una quinta marcha, lo que aumentará considerablemente la capacidad de recolección. Además, evitaremos invertir recursos innecesarios en edificios que no aportan beneficios para una cuenta dedicada exclusivamente a recolectar.
+
+Más adelante, si el proyecto lo requiere, siempre será posible seguir desarrollando estas cuentas. Sin embargo, para una cuenta granja, el Ayuntamiento 22 representa un excelente punto de equilibrio entre inversión, tiempo y rendimiento.
+
+─────────────────────────────
+
+Ayuntamiento 17 → 18
+
+Requisitos: Cantera 17★, Taberna 17★, Muro 17★, Almacén 17★.
+
+Mientras se completan los requisitos, continúa recolectando recursos y evita gastar aceleradores en edificios que no sean obligatorios.
+
+Una vez listos los requisitos, mejora el Ayuntamiento al nivel 18.
+
+─────────────────────────────
+
+Ayuntamiento 18 → 19
+
+Requisitos: Cantera 18★, Taberna 18★, Muro 18★, Establo 18★.
+
+Mantén ambos constructores ocupados siempre que sea posible y prioriza únicamente los edificios necesarios para avanzar.
+
+Una vez listos los requisitos, mejora el Ayuntamiento al nivel 19.
+
+─────────────────────────────
+
+Ayuntamiento 19 → 20
+
+Requisitos: Cantera 19★, Taberna 19★, Muro 19★, Centro de Alianza 19★.
+
+Solicita ayuda de la alianza antes de iniciar las mejoras de mayor duración para reducir el tiempo de construcción.
+
+Una vez listos los requisitos, mejora el Ayuntamiento al nivel 20.
+
+─────────────────────────────
+
+Ayuntamiento 20 → 21
+
+Requisitos: Cantera 20★, Taberna 20★, Muro 20★, Academia 20★.
+
+Evita mejorar edificios que no sean requisito para el Ayuntamiento y continúa acumulando recursos.
+
+Una vez listos los requisitos, mejora el Ayuntamiento al nivel 21.
+
+─────────────────────────────
+
+Ayuntamiento 21 → 22
+
+Requisitos: Cantera 21★, Taberna 21★, Muro 21★, Aserradero 21★, Tiro con Arco 21★, Hospital 21★.
+
+Utiliza aceleradores únicamente en los edificios obligatorios si deseas llegar más rápido al nivel 22.
+
+Una vez completados todos los requisitos, mejora el Ayuntamiento al nivel 22.
+
+─────────────────────────────
+
+CONSEJOS DE RITMO
+
+Mantén siempre los dos constructores trabajando.
+
+Utiliza aceleradores únicamente en el Ayuntamiento y en los edificios obligatorios para avanzar.
+
+Pide ayuda de la alianza antes de cada mejora de larga duración.
+
+No inviertas recursos en edificios que no sean necesarios para alcanzar el Ayuntamiento 22.
+
+El objetivo de esta etapa es desbloquear la quinta marcha para maximizar la eficiencia de recolección de la cuenta granja.

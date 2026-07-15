@@ -1,0 +1,154 @@
+GUÍA DE COMANDANTES RECOLECTORES
+
+Una economía sólida es la base para progresar rápidamente en Rise of Kingdoms. Subir los comandantes recolectores en el orden correcto te permitirá desbloquear antes las bonificaciones de recolección, aprovechar mejor los Tomos de Experiencia y maximizar la cantidad de recursos obtenidos desde los primeros días del reino.
+
+==================================================
+ORDEN RECOMENDADO DE COMANDANTES
+==================================================
+
+1. Sarka
+2. Cayo Mario
+3. Centurión
+4. Juana de Arco
+5. Uno de los siguientes:
+   - Matilde de Flandes
+   - Cleopatra VII
+   - Ishida Mitsunari
+   - Seondeok
+
+NOTA:
+
+Para el quinto comandante puedes utilizar cualquiera de estas opciones. Lo más recomendable es subir primero el que desbloquees antes o aquel del que tengas más esculturas.
+
+==================================================
+ETAPA 1 - AYUNTAMIENTO NIVEL 1 AL 11
+==================================================
+
+El primer objetivo será llevar únicamente a Sarka y Cayo Mario hasta el Nivel 20.
+
+¿Por qué el Nivel 20?
+
+Porque en este nivel podrás desbloquear la segunda parte de la rama de talentos de Recolección, obteniendo una importante bonificación de velocidad de recolección.
+
+Gracias a esto, tus dos primeras marchas comenzarán a recolectar recursos mucho más rápido desde el inicio del juego.
+
+Al finalizar esta etapa deberías tener:
+
+• Sarka Nivel 20.
+• Cayo Mario Nivel 20.
+• Ayuntamiento aproximadamente en Nivel 11.
+
+Durante esta etapa evita gastar experiencia en otros comandantes recolectores.
+
+==================================================
+ETAPA 2 - TERCERA MARCHA DE RECOLECCIÓN
+==================================================
+
+Mientras continúas mejorando tu ciudad, lleva a Centurión hasta el Nivel 20.
+
+Con esto obtendrás una tercera marcha con la misma bonificación de velocidad de recolección.
+
+Al finalizar esta etapa tendrás:
+
+• Sarka Nivel 20.
+• Cayo Mario Nivel 20.
+• Centurión Nivel 20.
+
+==================================================
+ETAPA 3 - AYUNTAMIENTO NIVEL 17
+==================================================
+
+Continúa desarrollando tu ciudad normalmente hasta alcanzar el Ayuntamiento Nivel 17.
+
+Una vez llegues a este punto, lleva a Juana de Arco hasta el Nivel 20.
+
+Ahora dispondrás de cuatro comandantes completamente preparados para la recolección.
+
+==================================================
+CAPACIDAD IDEAL DE RECOLECCIÓN
+==================================================
+
+Alrededor del Ayuntamiento Nivel 17, cada una de tus marchas podrá recolectar aproximadamente:
+
+630.000 recursos.
+
+Esta cantidad coincide prácticamente con la capacidad máxima de los nodos de recursos del mapa, permitiendo realizar una recolección completamente limpia.
+
+Las ventajas son:
+
+• No dejar recursos sobrantes en los nodos.
+• Evitar que otros jugadores encuentren nodos parcialmente vacíos.
+• Mejorar la eficiencia de todas tus marchas.
+• Mantener el mapa más limpio para toda la alianza.
+
+==================================================
+ETAPA 4 - SUBIR LOS COMANDANTES AL NIVEL 27
+==================================================
+
+Una vez que tus cuatro comandantes principales hayan alcanzado el Nivel 20, el siguiente objetivo será subirlos al Nivel 27.
+
+El orden recomendado es:
+
+1. Sarka
+2. Cayo Mario
+3. Centurión
+4. Juana de Arco
+5. El quinto comandante que hayas elegido.
+
+El Nivel 27 permite completar la parte más importante de la rama de talentos de Recolección, obteniendo todas las bonificaciones principales.
+
+IMPORTANTE:
+
+Estos comandantes siempre deben utilizarse como comandantes principales.
+
+El comandante secundario es irrelevante para la recolección, ya que los talentos únicamente funcionan en el comandante principal y el secundario no aporta ninguna bonificación adicional.
+
+==================================================
+OBJETIVO FINAL
+==================================================
+
+Una vez que todos tus comandantes recolectores se encuentren en Nivel 27, el siguiente paso será continuar entrenando tropas.
+
+El objetivo será aumentar la capacidad de cada marcha hasta poder recolectar aproximadamente:
+
+1.260.000 recursos por marcha.
+
+Con esta capacidad podrás vaciar completamente cada nodo de recursos sin dejar unidades sobrantes.
+
+Esto ofrece varias ventajas:
+
+• No dejarás pequeñas cantidades de recursos abandonadas.
+• Reducirás la cantidad de viajes necesarios.
+• Aprovecharás mejor el tiempo de recolección.
+• Tendrás una economía mucho más eficiente.
+• Mantendrás los nodos completamente limpios para tu alianza y tu reino.
+
+==================================================
+RESUMEN DE PROGRESIÓN
+==================================================
+
+ETAPA 1
+- Sarka Nivel 20.
+- Cayo Mario Nivel 20.
+
+ETAPA 2
+- Centurión Nivel 20.
+
+ETAPA 3
+- Alcanzar Ayuntamiento Nivel 17.
+- Juana de Arco Nivel 20.
+
+ETAPA 4
+- Recolectar aproximadamente 630.000 recursos por marcha.
+
+ETAPA 5
+- Subir los cinco comandantes recolectores al Nivel 27.
+
+ETAPA 6
+- Entrenar suficientes tropas para alcanzar aproximadamente 1.260.000 de capacidad de recolección por marcha.
+
+==================================================
+CONCLUSIÓN
+==================================================
+
+Seguir esta progresión te permitirá desarrollar una economía sólida desde el inicio del reino, aprovechando al máximo cada Tomo de Experiencia invertido. Al priorizar correctamente a los comandantes recolectores, aumentarás la velocidad de recolección, optimizarás cada marcha y reducirás el tiempo necesario para reunir los recursos que necesitarás durante todo tu progreso en Rise of Kingdoms.

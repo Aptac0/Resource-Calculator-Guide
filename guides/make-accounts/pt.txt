@@ -1,0 +1,241 @@
+Início – Níveis 1 a 3
+
+Comece melhorando a Prefeitura para o nível 3 (≈5 min).
+
+Enquanto ela estiver melhorando: evolua a Serraria, Fazenda, Quartel de Infantaria e Campo de Arqueiros o máximo possível.
+
+Quando terminar, evolua a Muralha para o nível 2 e a Taverna para o nível 2.
+
+Use Aceleradores na Taverna, se necessário.
+
+─────────────────────────────
+
+Prefeitura 3 → 4
+
+Evolua a Prefeitura para o nível 4 (≈20 min).
+
+Enquanto isso: continue evoluindo a Fazenda, Serraria, Quartéis e Hospital.
+
+Certifique-se de que a Muralha alcance o nível 3.
+
+─────────────────────────────
+
+Prefeitura 4 → 5
+
+Evolua o Hospital para o nível 4★ e a Muralha para o nível 4★.
+
+Ao mesmo tempo, leve todas as Fazendas e Serrarias para o nível 4, evolua o Acampamento de Batedores e treine tropas básicas.
+
+Depois, evolua a Prefeitura para o nível 5 (≈45 min com ajuda da Aliança).
+
+─────────────────────────────
+
+Prefeitura 5 → 6
+
+Requisitos: Pedreira 5★, Taverna 5★, Muralha 5★, Acampamento de Batedores 5★.
+
+Enquanto evolui a Pedreira e a Taverna, coloque a Fazenda e a Serraria na fila de melhorias.
+
+Use Aceleradores na Pedreira e na Taverna, depois evolua a Prefeitura para o nível 6.
+
+─────────────────────────────
+
+Prefeitura 6 → 7
+
+Requisitos: Pedreira 6★, Taverna 6★, Muralha 6★, Armazém 6★.
+
+Enquanto isso, evolua o Hospital e treine tropas.
+
+Use Aceleradores no Armazém e depois evolua a Prefeitura para o nível 7.
+
+─────────────────────────────
+
+Prefeitura 7 → 8
+
+Requisitos: Pedreira 7★, Taverna 7★, Muralha 7★, Fazenda 7★, Quartel de Infantaria 7★.
+
+Enquanto evolui a Pedreira e a Fazenda, continue melhorando todos os edifícios de recursos.
+
+Evolua a Prefeitura para o nível 8.
+
+─────────────────────────────
+
+Prefeitura 8 → 9
+
+Requisitos: Pedreira 8★, Taverna 8★, Muralha 8★, Centro da Aliança 8★.
+
+Evolua o Hospital e a Academia enquanto espera.
+
+Use Aceleradores no Centro da Aliança e depois evolua a Prefeitura para o nível 9.
+
+─────────────────────────────
+
+Prefeitura 9 → 10
+
+Requisitos: Pedreira 9★, Taverna 9★, Muralha 9★, Academia 9★.
+
+Evolua os Hospitais e treine tropas enquanto espera.
+
+Evolua a Prefeitura para o nível 10.
+
+─────────────────────────────
+
+Prefeitura 10 → 11
+
+Requisitos: Pedreira 10★, Taverna 10★, Muralha 10★, Estábulo 10★, Hospital 10★.
+
+Use Aceleradores no Estábulo e no Hospital.
+
+Evolua a Prefeitura para o nível 11.
+
+─────────────────────────────
+
+Prefeitura 11 → 12
+
+Requisitos: Pedreira 11★, Taverna 11★, Muralha 11★, Armazém 11★.
+
+Continue evoluindo os edifícios de recursos e treinando tropas.
+
+Evolua a Prefeitura para o nível 12.
+
+─────────────────────────────
+
+Prefeitura 12 → 13
+
+Requisitos: Pedreira 12★, Taverna 12★, Muralha 12★, Serraria 12★, Campo de Arqueiros 12★.
+
+Enquanto espera, evolua os Hospitais e treine tropas.
+
+Evolua a Prefeitura para o nível 13.
+
+─────────────────────────────
+
+Prefeitura 13 → 14
+
+Requisitos: Pedreira 13★, Taverna 13★, Muralha 13★, Centro da Aliança 13★, Mina de Ouro 13★, Posto Comercial 13★.
+
+Use Aceleradores na Mina de Ouro e no Posto Comercial.
+
+Evolua a Prefeitura para o nível 14.
+
+─────────────────────────────
+
+Prefeitura 14 → 15
+
+Requisitos: Pedreira 14★, Taverna 14★, Muralha 14★, Acampamento de Batedores 14★.
+
+Enquanto isso, evolua o Hospital e a Academia.
+
+Evolua a Prefeitura para o nível 15.
+
+─────────────────────────────
+
+Prefeitura 15 → 16
+
+Requisitos: Pedreira 15★, Taverna 15★, Muralha 15★, Academia 15★.
+
+Evolua os Hospitais, Quartéis de Infantaria, Estábulos e treine tropas de Nível 3 enquanto espera.
+
+Evolua a Prefeitura para o nível 16.
+
+─────────────────────────────
+
+Prefeitura 16 → 17
+
+Requisitos: Pedreira 16★, Taverna 16★, Muralha 16★, Fazenda 16★, Quartel de Infantaria 16★, Hospital 16★.
+
+Use Aceleradores na Pedreira e na Taverna.
+
+Evolua a Prefeitura para o nível 17.
+
+─────────────────────────────
+
+DICAS DE CONSTRUÇÃO
+
+Mantenha dois Construtores ativos (VIP ou Construtor com Gemas).
+
+Use Aceleradores apenas na Prefeitura e nos edifícios marcados com ★.
+
+Peça ajuda da Aliança antes de cada melhoria demorada.
+
+Colete Pedra e Madeira continuamente; elas são os principais gargalos.
+
+Pesquise tecnologias de Construção e Economia na Academia desde o início.
+
+─────────────────────────────
+Ao alcançar a Prefeitura nível 17, nosso principal objetivo será aumentar a eficiência da coleta de recursos o mais rápido possível.
+
+Como primeiro passo, melhore **apenas uma** Fazenda, Serraria, Pedreira e Mina de Ouro até o nível 17. Não é necessário melhorar as demais por enquanto.
+
+Depois que esses quatro edifícios estiverem no nível 17, continue melhorando os edifícios de treinamento (Quartel de Infantaria, Campo de Arqueiros e Estábulo) até o nível 17. A Oficina de Cerco pode permanecer no nível 10, pois não será necessária para esta estratégia.
+
+Em seguida, melhore o Centro da Aliança, a Academia, a Taverna, a Muralha, o Armazém e o Hospital até o nível 17.
+
+Se as vendas de recursos ainda forem poucas ou você ainda não precisar produzir grandes quantidades de recursos, o mais recomendado é continuar diretamente até a Prefeitura nível 22. Ao chegar a esse nível, você desbloqueará uma quinta marcha, aumentando significativamente sua capacidade de coleta. Além disso, você evitará gastar recursos desnecessários em edifícios que não trazem benefícios para uma conta dedicada exclusivamente à coleta.
+
+No futuro, caso o projeto exija, sempre será possível continuar desenvolvendo essas contas. No entanto, para uma conta fazenda, a Prefeitura nível 22 representa um excelente equilíbrio entre investimento, tempo e eficiência.
+
+─────────────────────────────
+
+Prefeitura 17 → 18
+
+Requisitos: Pedreira 17★, Taverna 17★, Muralha 17★, Armazém 17★.
+
+Enquanto completa os requisitos, continue coletando recursos e evite usar Aceleradores em edifícios que não sejam obrigatórios.
+
+Quando todos os requisitos estiverem concluídos, melhore a Prefeitura para o nível 18.
+
+─────────────────────────────
+
+Prefeitura 18 → 19
+
+Requisitos: Pedreira 18★, Taverna 18★, Muralha 18★, Estábulo 18★.
+
+Mantenha os dois Construtores sempre ocupados e priorize apenas os edifícios necessários para avançar.
+
+Quando todos os requisitos estiverem concluídos, melhore a Prefeitura para o nível 19.
+
+─────────────────────────────
+
+Prefeitura 19 → 20
+
+Requisitos: Pedreira 19★, Taverna 19★, Muralha 19★, Centro da Aliança 19★.
+
+Peça ajuda da Aliança antes de iniciar melhorias demoradas para reduzir o tempo de construção.
+
+Quando todos os requisitos estiverem concluídos, melhore a Prefeitura para o nível 20.
+
+─────────────────────────────
+
+Prefeitura 20 → 21
+
+Requisitos: Pedreira 20★, Taverna 20★, Muralha 20★, Academia 20★.
+
+Evite melhorar edifícios que não sejam obrigatórios para a Prefeitura e continue acumulando recursos.
+
+Quando todos os requisitos estiverem concluídos, melhore a Prefeitura para o nível 21.
+
+─────────────────────────────
+
+Prefeitura 21 → 22
+
+Requisitos: Pedreira 21★, Taverna 21★, Muralha 21★, Serraria 21★, Campo de Arqueiros 21★, Hospital 21★.
+
+Use Aceleradores apenas nos edifícios obrigatórios se desejar chegar mais rapidamente à Prefeitura nível 22.
+
+Quando todos os requisitos estiverem concluídos, melhore a Prefeitura para o nível 22.
+
+─────────────────────────────
+
+DICAS DE CONSTRUÇÃO
+
+Mantenha sempre os dois Construtores trabalhando.
+
+Use Aceleradores apenas na Prefeitura e nos edifícios obrigatórios para avançar.
+
+Peça ajuda da Aliança antes de cada melhoria demorada.
+
+Não invista recursos em edifícios que não sejam necessários para alcançar a Prefeitura nível 22.
+
+O objetivo desta etapa é desbloquear a quinta marcha e maximizar a eficiência de coleta da sua conta fazenda.
+

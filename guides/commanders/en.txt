@@ -1,0 +1,161 @@
+# GATHERING COMMANDER GUIDE
+
+A strong economy is the foundation for progressing quickly in Rise of Kingdoms. Leveling your gathering commanders in the correct order will allow you to unlock gathering bonuses earlier, make better use of Experience Tomes, and maximize the amount of resources collected from the very beginning of the kingdom.
+
+==================================================
+RECOMMENDED COMMANDER ORDER
+===========================
+
+1. Sarka
+2. Gaius Marius
+3. Centurion
+4. Joan of Arc
+5. One of the following:
+
+   * Matilda of Flanders
+   * Cleopatra VII
+   * Ishida Mitsunari
+   * Seondeok
+
+NOTE:
+
+For the fifth commander, you can use any of these options. It is recommended to level up the one you unlock first or the one for which you have the most sculptures.
+
+==================================================
+STAGE 1 - CITY HALL LEVEL 1 TO 11
+=================================
+
+Your first objective is to level only Sarka and Gaius Marius to Level 20.
+
+Why Level 20?
+
+Because at this level, you can unlock the second section of the Gathering talent tree, granting a significant gathering speed bonus.
+
+This allows your first two gathering marches to collect resources much faster from the very beginning of the game.
+
+By the end of this stage, you should have:
+
+• Sarka Level 20.
+• Gaius Marius Level 20.
+• City Hall approximately Level 11.
+
+During this stage, avoid spending experience on other gathering commanders.
+
+==================================================
+STAGE 2 - THIRD GATHERING MARCH
+===============================
+
+As you continue upgrading your city, level Centurion to Level 20.
+
+This gives you a third gathering march with the same gathering speed bonus.
+
+At the end of this stage, you will have:
+
+• Sarka Level 20.
+• Gaius Marius Level 20.
+• Centurion Level 20.
+
+==================================================
+STAGE 3 - CITY HALL LEVEL 17
+============================
+
+Continue developing your city until you reach City Hall Level 17.
+
+Once you reach this point, level Joan of Arc to Level 20.
+
+You will now have four commanders fully prepared for gathering.
+
+==================================================
+IDEAL GATHERING CAPACITY
+========================
+
+Around City Hall Level 17, each of your gathering marches should be able to collect approximately:
+
+630,000 resources.
+
+This amount almost perfectly matches the maximum capacity of resource nodes on the world map, allowing you to gather them completely.
+
+The advantages are:
+
+• No resources left behind in resource nodes.
+• Prevent other players from finding partially depleted nodes.
+• Improve the efficiency of all your gathering marches.
+• Keep the map cleaner for your entire alliance.
+
+==================================================
+STAGE 4 - LEVEL YOUR COMMANDERS TO LEVEL 27
+===========================================
+
+Once your four main gathering commanders have reached Level 20, your next objective is to level them to Level 27.
+
+Recommended order:
+
+1. Sarka
+2. Gaius Marius
+3. Centurion
+4. Joan of Arc
+5. Your chosen fifth commander.
+
+Level 27 allows you to complete the most important part of the Gathering talent tree, unlocking all of its main bonuses.
+
+IMPORTANT:
+
+These commanders should always be used as primary commanders.
+
+The secondary commander is irrelevant for gathering because talents only apply to the primary commander, and the secondary commander provides no additional gathering bonuses.
+
+==================================================
+FINAL GOAL
+==========
+
+Once all your gathering commanders have reached Level 27, the next step is to continue training troops.
+
+Your goal is to increase the carrying capacity of each gathering march until it can collect approximately:
+
+1,260,000 resources per march.
+
+With this carrying capacity, each resource node can be gathered completely without leaving any resources behind.
+
+This provides several advantages:
+
+• No small amounts of resources will be left behind.
+• Fewer gathering trips are required.
+• Better use of gathering time.
+• A much more efficient economy.
+• Resource nodes remain completely clean for your alliance and kingdom.
+
+==================================================
+PROGRESSION SUMMARY
+===================
+
+STAGE 1
+
+* Sarka Level 20.
+* Gaius Marius Level 20.
+
+STAGE 2
+
+* Centurion Level 20.
+
+STAGE 3
+
+* Reach City Hall Level 17.
+* Joan of Arc Level 20.
+
+STAGE 4
+
+* Gather approximately 630,000 resources per march.
+
+STAGE 5
+
+* Level all five gathering commanders to Level 27.
+
+STAGE 6
+
+* Train enough troops to reach approximately 1,260,000 gathering capacity per march.
+
+==================================================
+CONCLUSION
+==========
+
+Following this progression will allow you to build a strong economy from the very beginning of your kingdom while making the most of every Experience Tome you invest. By prioritizing your gathering commanders correctly, you will increase gathering speed, optimize every gathering march, and reduce the time needed to collect the resources required throughout your Rise of Kingdoms journey.
