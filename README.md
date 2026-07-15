@@ -109,13 +109,5 @@ How it works in short:
 
 ---
 
-## 🖼 Visual Resources
-
-- App: [images/app](images/app)
-- Commanders: [images/commanders](images/commanders)
-- Technology: [images/technology](images/technology)
-
----
-
-**Version:** 2.0.0  
+**Version:** 1.0.1  
 **Updated:** 2026-07-15
